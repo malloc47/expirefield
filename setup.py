@@ -13,7 +13,7 @@ setup(
     license='LICENSE.txt',
     description='ExpireField for django models that will remove fields at regular intervals',
     install_requires=[
-        "Django >= 1.4.0",
+        "Django",
     ],
 )
 
