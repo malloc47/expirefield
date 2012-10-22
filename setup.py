@@ -6,6 +6,7 @@ setup(
     version='0.0.1',
     author='Jarrell Waggoner',
     author_email='malloc47@gmail.com',
+    download_url='https://github.com/malloc47/expirefield/tarball/master',
     packages=find_packages(),
     url='https://github.com/malloc47/django-expirefield',
     license='LICENSE.txt',
@@ -13,5 +14,4 @@ setup(
     install_requires=[
         "Django >= 1.4.0",
     ],
-    download_url='https://github.com/malloc47/expirefield/tarball/master'
 )
